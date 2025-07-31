@@ -20,6 +20,10 @@ LivePhoto测试
 :::picture
 
 ::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/222.webp" video="https://ava.badwind824.top/assets/livephoto/222.mp4" type="y"}
-
+::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/111.webp" video="https://ava.badwind824.top/assets/livephoto/111.mp4" type="y"}
+::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/333.webp" video="https://ava.badwind824.top/assets/livephoto/333.mp4" type="y"}
+::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/444.webp" video="https://ava.badwind824.top/assets/livephoto/444.mp4" type="y"}
+::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/555.webp" video="https://ava.badwind824.top/assets/livephoto/555.mp4" type="y"}
+::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/666.webp" video="https://ava.badwind824.top/assets/livephoto/666.mp4" type="y"}
 
 :::
