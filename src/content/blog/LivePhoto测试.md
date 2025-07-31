@@ -19,7 +19,7 @@ LivePhoto测试
 
 :::picture
 
-::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/222.jpg" video="https://ava.badwind824.top/assets/livephoto/222.mp4" type="y"}
+::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/222.webp" video="https://ava.badwind824.top/assets/livephoto/222.mp4" type="y"}
 
 
 :::
