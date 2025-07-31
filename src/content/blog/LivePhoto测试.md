@@ -13,8 +13,13 @@ top: false
 LivePhoto测试
 :::
 
+:::picture
+
 ::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/1.webp" video="https://ava.badwind824.top/assets/livephoto/1.mp4" type="y"}
 ::vhLivePhoto{photo="https://ava.badwind824.top/assets/livephoto/2.webp" video="https://ava.badwind824.top/assets/livephoto/2.mp4" type="y"}
+
+:::
+
 
 
 :::picture
