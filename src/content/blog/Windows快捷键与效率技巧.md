@@ -1,3 +1,20 @@
+---
+title: "Windows快捷键与效率技巧"
+categories: Daily
+tags: [""]
+id: "20250527"
+date: 2025-05-27 16:00:18
+cover: "https://img.badwind824.eu.org/v2/GnSZN27.jpeg"
+recommend: true
+top: false
+---
+
+
+
+
+
+
+
 # 前言
 
 每天都在用 Windows，但你真的用对了吗？在这个AI泛滥的时代，仍有许多电脑小白甚至连基本的系统操作都不知道，其实很多隐藏功能和快捷键都能极大提升效率，减少鼠标依赖，让操作更顺畅。
