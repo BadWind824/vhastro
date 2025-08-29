@@ -2,8 +2,8 @@
 title: "Windows快捷键与效率技巧"
 categories: Daily
 tags: [""]
-id: "20250527"
-date: 2025-05-27 16:00:18
+id: "20250829"
+date: 2025-08-29 15:00:18
 cover: "https://img.badwind824.eu.org/v2/GnSZN27.jpeg"
 recommend: true
 top: false
